@@ -1,0 +1,187 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+    <string name="hotel_page_title">Hotels</string>
+    <string name="restaurants_page_title">Restaurants</string>
+    <string name="transportation_page_title">Transportation</string>
+    <string name="tourist_attractions_page_title">Tourist Attractions</string>
+    <string-array name="hotels_item1_array">
+        <item>Safir Hotel Cairo</item>
+        <item>Finding an ideal hotel in Giza does not have to be difficult. Welcome to Safir Hotel Cairo, a nice option for travelers like you.
+For those interested in checking out Pharaonic Village (2.6 mi) while visiting Giza, Safir Hotel Cairo is a short distance away.
+You/’ll enjoy relaxing rooms that offer a flat screen TV, air conditioning, and a minibar, and you can stay connected during your stay as Safir Hotel Cairo offers guests free wifi.
+The hotel features a 24 hour front desk, a concierge, and room service. Plus, Safir Hotel Cairo offers a pool and free breakfast, providing a pleasant respite from your busy day. For guests with a vehicle, there is paid public parking available nearby.
+If you/’re looking for a southwestern restaurant, consider a visit to Chili/`s, which is not far from Safir Hotel Cairo.
+Giza is also known for some great history museums, including The Grand Egyptian Museum, Egypt Travel Gate Day Tours, and Taha Hussein Museum, which are not too far from Safir Hotel Cairo.
+Safir Hotel Cairo looks forward to welcoming you on your visit to Giza.
+</item>
+        <item>53 $</item>
+    </string-array>
+    <string-array name="hotels_item2_array">
+        <item>Swiss Inn Pyramids</item>
+        <item>Located on 27 hole Dreamland Golf Course within the prestigious residential area of Dreamland
+            compound in 6th October Transfers: To the airport or any desired location upon request with limousine service Closest airport: Cairo International Airport 65 km/6th October Airport Close to:
+            The Pyramids of Giza, 8 km Closest towns: 6th October City (4 km), Cairo (25 km)183 rooms Types of rooms: 38 rooms to the pool side 127 standard rooms garden side 8 suites Golf View,
+            Free Internet wi-fi is available. Hotel Children and adults Swimming pools are heated during winter time. All hotel rooms are equipped with tea and coffee along Mineral water upon arrival.
+            Enjoy complimentary use of the Gym at our extension, Swiss inn Plaza. The Gym is equipped with TechnoGym machines and it is just 5 minutes walk from Swiss Inn Pyramids Golf Resort through beautiful Dreamland golf course.
+            Open from 12:00 to 02:00 pm and from 03:00 pm to 09:00 pm.</item>
+        <item>78 $</item>
+    </string-array>
+    <string-array name="hotels_item3_array">
+        <item>Sheraton Cairo Hotel and Casino</item>
+        <item>Sheraton Cairo Hotel  Casino sits on the west bank of the River Nile in Cairo,
+            Egypt, in unique adjoining towers that place you in the middle of it all.
+            Come and try your hand at blackjack in our casino,
+            relax in our comfortable accommodations and explore the area around our hotel which includes Cairo Opera House,
+            Egyptian Museum and Cairo shopping centers.</item>
+        <item>118 $</item>
+    </string-array>
+    <string-array name="hotels_item4_array">
+        <item>Helnan Dreamland Hotel</item>
+        <item>Everyone needs a place to lay their weary head. For travelers visiting Giza, Helnan Dreamland Hotel is an excellent choice for rest and rejuvenation.
+Guest rooms offer amenities such as a flat screen TV, air conditioning, and a minibar, and guests can go online with free wifi offered by the hotel.
+Sheraton Dreamland Hotel features a 24 hour front desk, room service, and a concierge, to help make your stay more enjoyable. The property also boasts a pool and breakfast.
+If you are driving to Helnan Dreamland Hotel, secured parking is available.
+Should time allow, Great Sphinx is a popular that is relatively easy to get to.
+Whether you’re traveling for business, pleasure or both, Helnan Dreamland Hotel is sure to make your visit to Giza one worth remembering.</item>
+        <item>93 $</item>
+    </string-array>
+    <string-array name="hotels_item5_array">
+        <item>Cairo Pyramids Hotel</item>
+        <item>Only a short distance from Giza at the foot of the Pyramids lies the Cairo Pyramids Hotel.
+            The hotel is the perfect starting point for sightseeing, relaxation and business meetings alike.
+            With elegantly appointed rooms and suites, two swimming pools and a variety of bars and restaurants to choose from.
+            Both the Garden wing is offering guests a contemporary, convenient and comfortable experience.
+            Just 35 kilometer from downtown and 51 kilometers from Cairo airport and with easy access to the new industrial areas around the city.</item>
+        <item>75 $</item>
+    </string-array>
+    <string-array name="transportation_1">
+        <item>Tok Tok</item>
+        <item> Actually this is not a comfortable transportation but it is cheap and suitable
+        to move in the same area Tok Tok was first published on 10 January 2011.
+            The founders of the magazine are five Egyptian graphic artists, namely Shennawy, Makhlouf, Hisham Rahma, Andil, and Tawfeek.
+            They were also contributors of the magazine which funded itself.
+            The goal of the magazine was to offer a forum for Egypt\'s comic scene and for informing people about their predecessors using comics and graphics.
+            The title of the magazine, Tok Tok, is a three-wheeled covered scooter used as a main method of motorized transportation in areas and roads in Egyptian cities where cars cannot be used.
+            The magazine’s tagline was “the stop for graphic stories”and the cover page also contains the statement, “to be kept out of the reach of children”.
+        </item>
+        <item>about 3$ inside the city</item>
+    </string-array>
+    <string-array name="transportation_2">
+        <item>Camel</item>
+        <item>
+            it was used in the past to travel between cities and countries but now it is used
+        by the Local people and The tourists just for fun
+        By at least 1200 BC the first camel saddles had appeared, and Bactrian camels could be ridden. The first saddle was positioned to the back of the camel,
+            and control of the Bactrian camel was exercised by means of a stick. However,
+            between 500 and 100 BC, Bactrian camels came into military use. New saddles, which were inflexible and bent,
+            were put over the humps and divided the rider\'s weight over the animal. In the seventh century BC the military Arabian saddle evolved, which again improved the saddle design slightly.
+Military forces have used camel cavalries in wars throughout Africa, the Middle East, and into the modern-day Border Security Force (BSF) of India (though as of July 2012, the BSF planned the replacement of camels with ATVs).
+            The first documented use of camel cavalries occurred in the Battle of Qarqar in 853 BC.[ Armies have also used camels as freight animals instead of horses and mules.
+The East Roman Empire used auxiliary forces known as dromedarii, whom the Romans recruited in desert provinces.The camels were used mostly in combat because of their ability to scare off horses at close range (horses are afraid of the camels\' scent),
+            a quality famously employed by the Achaemenid Persians when fighting Lydia in the Battle of Thymbra (547 BC).</item>
+        <item>50 LE for 30 mins</item>
+    </string-array>
+    <string-array name="transportation_3">
+        <item>Horse</item>
+        <item>Horses are adapted to run, allowing them to quickly escape predators,
+            possessing an excellent sense of balance and a strong fight-or-flight response.
+            Related to this need to flee from predators in the wild is an unusual trait: horses are able to sleep both standing up and lying down, with younger horses tending to sleep significantly more than adults.
+            Female horses, called mares, carry their young for approximately 11 months, and a young horse, called a foal,
+            can stand and run shortly following birth. Most domesticated horses begin training under a saddle or in a harness between the ages of two and four.
+            They reach full adult development by age five, and have an average lifespan of between 25 and 30 years.
+            Just try it and you will buy one  </item>
+        <item>50 $ per 30 mis</item>
+    </string-array>
+    <string-array name="transportation_4">
+        <item>Taxi</item>
+        <item>cTaxi services are typically provided by automobiles, but in some countries various human-powered vehicles,
+            (such as the rickshaw or pedicab) and animal-powered vehicles (such as the Hansom cab) or even boats (such as water taxies or gondolas) are also used or have been used historically.
+            In Western Europe, Bissau, and to an extent, Australia, it is not uncommon for expensive cars such as Mercedes-Benz to be the taxicab of choice.
+            Often this decision is based upon the perceived reliability of, and warranty offered with these vehicles.
+            These taxi-service vehicles are almost always equipped with four-cylinder turbodiesel engines and relatively low levels of equipment, and are not considered luxury cars.
+            This has changed though in countries such as Denmark, where tax regulation makes it profitable to sell the vehicles after a few years of service, which requires the cars to be well equipped and kept in good condition. </item>
+        <item>about 50 $</item>
+    </string-array>
+    <string-array name="tourists_attractions_1">
+        <item>Pyramids of Giza</item>
+        <item>The Pyramids of Giza are Cairo/\'s number one half-day trip and a must-do attraction on everyone/\'s itinerary. Right on the edge of the city, on the Giza Plateau, these fourth dynasty funerary temples have been wowing travelers for centuries and continue to be one of the country/\'s major highlights. Despite the heat, the dust, and the tourist hustle, you can/\'t miss a trip here.
+
+The Pyramid of Cheops (also called the Great Pyramid or Pyramid of Khufu) is the largest pyramid of the Giza group, and its interior of narrow passages can be explored, although there isn/\'t much to see, except a plain tomb chamber with an empty sarcophagus.
+
+Directly behind the Great Pyramid is the Solar Boat Museum, which displays one of the ceremonial solar barques unearthed in the area that has been painstakingly restored to its original glory.
+
+Farther south on the plateau is the Pyramid of Chephren (also known as the Pyramid of Khefre), with an internal tunnel area, which can be entered, and the smaller Pyramid of Mycerinus (Pyramid of Menkaure). Guarding these mortuary temples is the lion-bodied and pharaoh-faced Sphinx; one of the ancient world/\'s iconic monuments.
+
+The Giza Plateau is set to welcome another attraction when the Grand Egyptian Museum (GEM) is finally finished. When opened, it will be the biggest museum in the world devoted to exhibiting the antiquities of a single civilization, displaying a wealth of Ancient Egypt/\'s artifacts that have never been seen by the public before. After a stop-start construction, beset with financial difficulties, the museum opening date has been set for 2020.
+
+The pyramid plateau is on the edge of Giza/\'s suburban sprawl, roughly 13 kilometers southwest of the central city. Most people arrive by taxi, but it/\'s also accessible by an easier-than-you-think combo of taking the metro to Giza and then hopping on a local minibus that drops you outside the entrance. As the pyramids\' area is quite sprawling though, many travelers elect to see the area by tour. One of the most popular things to do at the pyramids is a camel ride. A good option for first-time visitors is the Private Half-Day Trip to the Giza Pyramids with Camel-Riding. This includes pickup and drop-off at your hotel, a guide, lunch, and 25 minutes on a camel.
+
+Address: Al-Ahram Street, Giza</item>
+        <item>11 $</item>
+    </string-array>
+    <string-array name="tourists_attractions_2">
+        <item>The Egyptian Museum</item>
+        <item>The absolutely staggering collection of antiquities displayed in Cairo/\'s Egyptian Museum makes it one of the world\'s great museums. You would need a lifetime to see everything on show.
+The museum was founded in 1857 by French Egyptologist August Mariette and moved to its current home — in the distinctive powder-pink mansion in Downtown Cairo — in 1897. Yes, the collection is poorly labeled and not well set out due to limits of space (and only a fraction of its total holdings are actually on display). It also suffers currently with some empty cases due to artifacts having been transferred to the GEM, but you still can\'t help being impressed by the sheer majesty of the exhibits.
+If you\'re pressed for time, make a beeline straight for the Tutankhamun Galleries. The treasures displayed here were all found in the tomb of Tutankhamun, son-in-law and successor of Amenophis IV (later Akhenaten), who died at the age of 18. The tomb, discovered by Howard Carter in the Valley of the Kings in 1922, contained the largest and richest assemblage of grave goods ever found intact in an Egyptian tomb.
+Highlights include Tutankhamun\'s death mask and sarcophagi (Room 3), the pharaoh\'s lion throne (Room 35), and his fascinating wardrobe collection (Room 9). Afterwards, don\'t miss a wander through the Egyptian jewelry collection (Room 4), which contains more bling than you\'ll ever see again in one lifetime, and finish off by viewing the Royal Mummies Collection (Room 56 and 46), where you can say hello to Hatshepsut, Tuthmosis II, Ramses II, and Seti I in person.
+Even when the GEM opens, this iconic building will still be used as a museum. It has not been announced which collections will stay here and which will be moved — except for the Tutankhamun Galleries, which will all eventually be transferred to the GEM.
+The Egyptian Museum sits right beside Midan Tahrir, the central square of Downtown Cairo. The easiest way to arrive here is to take the Cairo Metro to Sadat station (on Midan Tahrir) and follow the exit signs to the museum.
+Location: Midan al-Tahrir, Downtown
+</item>
+        <item>10 $</item>
+    </string-array>
+    <string-array name="tourists_attractions_3">
+        <item>Khan el-Khalili (Souq Quarter)</item>
+        <item>Khan el-Khalili is one of the world\'s great shopping experiences. This Middle Eastern souq (bazaar) is a labyrinthine collection of skinny alleyways established as a shopping district in AD 1400, which still rings with the clang of metal workers and silversmiths.
+
+The main streets have long ago given themselves over completely to the tourist trade (with plenty of cheap papyrus pictures and plastic pyramids on display), but divert off the main drag into the surrounding alleyways, and the tiny stores and cluttered workshops are some of the best places to pick up traditional products in Egypt. Here, you\'ll find everything from antiques and gorgeous metal lampshades to locally woven textiles.
+
+While here stop in at Cairo\'s most famous coffee shop, Fishawis, where syrupy Arabic coffee and sweet tea are dished out to tourists and local merchants alike at a rapid-fire pace.
+
+For shoppers, the main souq road is Al-Muski Street (called Gawhar al-Qaid Street at its eastern end). The gold and silver workshops mostly congregate just north of this street\'s intersection with Al-Muizz Li-Din Allah Street, while the spice market section is just to the south. The market is hemmed in on its eastern side by the Neo-Gothic bulk of the Sayyidna el-Husein Mosque, built in 1792 to honor the Prophet Muhammad\'s grandson.
+
+The entry to the Khan el-Khalili area is across the road from Al-Azhar Mosque.
+
+Location: Off Al-Azhar Street, Islamic Cairo District</item>
+        <item>what you buy</item>
+    </string-array>
+    <string-array name="tourists_attractions_4">
+        <item> Bab Zuweila</item>
+        <item>Of all the Islamic Cairo district\'s gates, Bab Zuweila is the most interesting. You can climb to the top of this medieval era relic (built in the 11th century) for some amazing rooftop views over Islamic Cairo. The gate itself has two minarets and is the last southern gate of the old town still standing. Right next door is the red-and-white stonework of the Sheikh al-Mu\'ayyad Mosque, and a few steps farther away are the fascinating artisan stalls of the Street of the Tentmakers, where Egypt\'s bright fabric used for weddings and other special occasions is sold in bulk.
+
+Address: Al-Muiz li-Din Allah Street, Islamic Cairo District</item>
+        <item>Free</item>
+    </string-array>
+    <string-array name="restaurants_1">
+        <item>Osmanly Restaurant</item>
+        <item>Dine like a Sultan as attentive waiters present culinary treasures crafted by Turkish chefs. Discover Osmanly, the only nouveau Ottoman cuisine restaurant in town,
+        the first treat you’ll receive is a brass pitcher of jasmine water to dip your hands and a warm towel to dry them off the perfect preparation for the delicacies ahead. The shared plate concept allows guests to try a variety of dishes as an introduction to the Middle East’s favourite cuisine. Open daily for lunch and dinner.</item>
+        <item> 1:00 PM - 12:00 AM</item>
+    </string-array>
+    <string-array name="restaurants_2">
+        <item>Vivo Restaurant</item>
+        <item>In Italian it means “alive”, this restaurant will give you the experience of rustic Italian cuisine in a modern setting where you will have the chance to go in a journey to the Italian countryside with the smell of homemade pizza and the largest Grappa selection in town.
+            With an Singer every Thursday and Saturday</item>
+        <item>12:30 PM - 3:30 PM</item>
+    </string-array>
+    <string-array name="restaurants_3">
+        <item>Sushiramis</item>
+        <item>Sushiramis uses only the freshest ingredients coupled with meticulous preparation to create a range of mouth-watering Sushi and delectable Sashimi. Savour our Sushiramis Maki prepared by Chef Raoul, grilled eggplant with molasses and smoked eel,
+            now available in at Sushiramis restaurant and in all our restaurants.</item>
+        <item>12:00 PM - 12:00 AM</item>
+    </string-array>
+    <string-array name="restaurants_4">
+        <item>Saigon Restaurant and Lounge</item>
+        <item>Fairmont Nile City/’s Pan-Asian fine dining restaurant offers a unique sharing concept with a signature twist of Asian cuisine for an unmatched culinary experience. Elegant interiors and stunning Nile views set the stage for a unique experience at Saigon Restaurant.
+            The Lounge is the perfect location for an intimate get-together while enjoying some of the city/\'s best live entertainment.</item>
+        <item>6:00 PM - 01:00 AM</item>
+    </string-array>
+    <string-array name="restaurants_5">
+        <item>The Grill Restaurant and Lounge</item>
+        <item>The Grill presents the unique flavors of contemporary, traditional and brasserie French cuisine in an elegant ambience overlooking the Nile.
+            Open from Wednesday till Sunday from 7 pm for dinner.</item>
+        <item>7:00 PM - 12:00 AM</item>
+    </string-array>
+</resources>
+
